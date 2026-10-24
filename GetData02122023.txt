@@ -1,6 +1,6 @@
 {
 	"version": "0.13",
-	"androidurl": "com.FunPlusStudios.DarseNizamiMultan",
+	"androidurl": "https://raw.githubusercontent.com/naumanfps/naumanfps.github.io/main/Dars-e-Nizami.apk",
 	"appleurl": "https://dummy.com",
 	"winurl": "https://dummy.com",
 	"osxurl": "https://dummy.com",
