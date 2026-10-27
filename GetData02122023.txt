@@ -1,5 +1,5 @@
 {
-	"version": "0.14",
+	"version": "0.15",
 	"androidurl": "https://raw.githubusercontent.com/naumanfps/naumanfps.github.io/main/Dars-e-Nizami.apk",
 	"appleurl": "https://dummy.com",
 	"winurl": "https://dummy.com",
