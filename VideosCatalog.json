@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"androidurl": "",
+	"appleurl": "",
+	"winurl": "",
+	"osxurl": "",
+	"servers": [
+		"https://raw.githubusercontent.com/naumanfps/naumanfps.github.io/main"
+	],
+	"news": [],
+	"books": []
+}
